@@ -124,3 +124,32 @@ img {
     text-align: center;
     padding-left: 550px;
 }
+
+.section-4 {
+    background-color: white;
+}
+
+.card {
+    width: 1000px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #9B8AB4;
+    margin: 100px auto;
+    padding: 50px 100px;
+    border-radius: 10px;
+    color: #F9FAF8;
+    text-shadow: 0 0 1px black;
+}
+
+.btn-2 {
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+    background-color: #9B8AB4;
+    padding: 7px 15px;
+    font-weight: bold;
+    margin-right: 150px;
+}
+
+.link {
+    color: #F9FAF8;
+}
