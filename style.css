@@ -153,3 +153,10 @@ img {
 .link {
     color: #F9FAF8;
 }
+
+footer {
+    background-color: #27254C;
+    color: #F9FAF8;
+    text-align: center;
+    padding: 40px 0;
+}
